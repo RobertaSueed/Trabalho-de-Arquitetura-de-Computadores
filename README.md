@@ -4,7 +4,7 @@ Laís Medeiros Costa Gonçalves - https://github.com/LaisMedeiros02/Trabalho-de-
 
 Roberta Sued Nascimento Gomes de Santana - https://github.com/RobertaSueed/Trabalho-de-Arquitetura-de-Computadores
 
-Milena Lopes Calasans de Souza - 
+Milena Lopes Calasans de Souza - https://github.com/iMilena/Arquitetura-de-computadores
 
 Geziel Xavier Nobre Junior -
 
